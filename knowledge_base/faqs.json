@@ -1,0 +1,42 @@
+[
+    {
+        "question": "What types of cases are most common?",
+        "answer": "Based on our data, the most common case types are: Family Law, Corporate Law, Civil Dispute."
+    },
+    {
+        "question": "Which court handles the most cases?",
+        "answer": "Based on our data, NCLT handles the most cases."
+    },
+    {
+        "question": "Who are the most active judges?",
+        "answer": "Based on our data, the most active judges are: Justice Reddy, Justice Sharma, Justice Nair."
+    },
+    {
+        "question": "What are the most common legal references?",
+        "answer": "Based on our data, the most commonly cited legal references are: Hindu Marriage Act 1955, Companies Act 2013, IPC Section 378, 323."
+    },
+    {
+        "question": "What is the most common verdict?",
+        "answer": "Based on our data, the most common verdict is: In favor of Plaintiff."
+    },
+    {
+        "question": "How many cases are appealed?",
+        "answer": "Based on our data, 3367 cases have been appealed."
+    },
+    {
+        "question": "What is the success rate of appeals?",
+        "answer": "Based on our data, the success rate of appeals is approximately 50.31%."
+    },
+    {
+        "question": "What types of cases are most likely to be appealed?",
+        "answer": "Based on our data, Family Law cases are most likely to be appealed."
+    },
+    {
+        "question": "What is the average time for a case to be resolved?",
+        "answer": "Our data does not include case resolution time information."
+    },
+    {
+        "question": "Which judge has the highest rate of cases being appealed?",
+        "answer": "Based on our data, cases presided by Justice Reddy are most likely to be appealed."
+    }
+]

@@ -1,0 +1,507 @@
+{
+    "Justice Sharma": {
+        "description": "Cases presided by Justice Sharma",
+        "common_case_types": {
+            "Family Law": 234,
+            "Corporate Law": 204,
+            "Constitutional": 203,
+            "Criminal Case": 199,
+            "Civil Dispute": 195
+        },
+        "common_verdicts": {
+            "Not Guilty": 224,
+            "Guilty": 216,
+            "In favor of Plaintiff": 212,
+            "Joint Custody": 192,
+            "In favor of Defendant": 191
+        },
+        "common_courts": {
+            "NCLT": 226,
+            "Supreme Court": 214,
+            "High Court": 210,
+            "District Court": 195,
+            "Family Court": 190
+        },
+        "sample_cases": [
+            {
+                "Case ID": 3604,
+                "Case Type": "Civil Dispute",
+                "Court": "Family Court",
+                "Judge Name": "Justice Sharma",
+                "Date": "2019-06-25",
+                "Plaintiff": "Party_27",
+                "Defendant": "Party_808",
+                "Case Summary": "Legal dispute over civil dispute issue.",
+                "Key Arguments": "Arguments presented based on Hindu Marriage Act 1955.",
+                "Verdict": "In favor of Plaintiff",
+                "Appeal Status": "No Appeal",
+                "Legal References": "Article 300A, Transfer of Property Act 1882",
+                "Outcome Summary": "In favor of Plaintiff with reference to Article 300A, Transfer of Property Act 1882."
+            },
+            {
+                "Case ID": 1964,
+                "Case Type": "Corporate Law",
+                "Court": "NCLT",
+                "Judge Name": "Justice Sharma",
+                "Date": "2018-03-08",
+                "Plaintiff": "Party_185",
+                "Defendant": "Party_734",
+                "Case Summary": "Legal dispute over corporate law issue.",
+                "Key Arguments": "Arguments presented based on Companies Act 2013.",
+                "Verdict": "Not Guilty",
+                "Appeal Status": "Appeal Dismissed",
+                "Legal References": "Companies Act 2013",
+                "Outcome Summary": "Not Guilty with reference to Companies Act 2013."
+            },
+            {
+                "Case ID": 3485,
+                "Case Type": "Constitutional",
+                "Court": "NCLT",
+                "Judge Name": "Justice Sharma",
+                "Date": "2020-12-28",
+                "Plaintiff": "Party_226",
+                "Defendant": "Party_912",
+                "Case Summary": "Legal dispute over constitutional issue.",
+                "Key Arguments": "Arguments presented based on Constitution of India, Article 21.",
+                "Verdict": "Joint Custody",
+                "Appeal Status": "Appeal Dismissed",
+                "Legal References": "IPC Section 378, 323",
+                "Outcome Summary": "Joint Custody with reference to IPC Section 378, 323."
+            },
+            {
+                "Case ID": 1816,
+                "Case Type": "Civil Dispute",
+                "Court": "Family Court",
+                "Judge Name": "Justice Sharma",
+                "Date": "2022-07-11",
+                "Plaintiff": "Party_283",
+                "Defendant": "Party_926",
+                "Case Summary": "Legal dispute over civil dispute issue.",
+                "Key Arguments": "Arguments presented based on IPC Section 378, 323.",
+                "Verdict": "Joint Custody",
+                "Appeal Status": "No Appeal",
+                "Legal References": "Hindu Marriage Act 1955",
+                "Outcome Summary": "Joint Custody with reference to Hindu Marriage Act 1955."
+            },
+            {
+                "Case ID": 3560,
+                "Case Type": "Criminal Case",
+                "Court": "District Court",
+                "Judge Name": "Justice Sharma",
+                "Date": "2022-08-20",
+                "Plaintiff": "Party_28",
+                "Defendant": "Party_891",
+                "Case Summary": "Legal dispute over criminal case issue.",
+                "Key Arguments": "Arguments presented based on Article 300A, Transfer of Property Act 1882.",
+                "Verdict": "In favor of Defendant",
+                "Appeal Status": "Appeal Dismissed",
+                "Legal References": "Hindu Marriage Act 1955",
+                "Outcome Summary": "In favor of Defendant with reference to Hindu Marriage Act 1955."
+            }
+        ]
+    },
+    "Justice Reddy": {
+        "description": "Cases presided by Justice Reddy",
+        "common_case_types": {
+            "Civil Dispute": 217,
+            "Family Law": 215,
+            "Criminal Case": 207,
+            "Corporate Law": 206,
+            "Constitutional": 199
+        },
+        "common_verdicts": {
+            "In favor of Plaintiff": 224,
+            "Not Guilty": 216,
+            "Joint Custody": 214,
+            "Guilty": 197,
+            "In favor of Defendant": 193
+        },
+        "common_courts": {
+            "District Court": 220,
+            "NCLT": 214,
+            "High Court": 209,
+            "Family Court": 204,
+            "Supreme Court": 197
+        },
+        "sample_cases": [
+            {
+                "Case ID": 2939,
+                "Case Type": "Constitutional",
+                "Court": "NCLT",
+                "Judge Name": "Justice Reddy",
+                "Date": "2016-10-30",
+                "Plaintiff": "Party_175",
+                "Defendant": "Party_955",
+                "Case Summary": "Legal dispute over constitutional issue.",
+                "Key Arguments": "Arguments presented based on IPC Section 378, 323.",
+                "Verdict": "In favor of Defendant",
+                "Appeal Status": "Appeal Dismissed",
+                "Legal References": "Article 300A, Transfer of Property Act 1882",
+                "Outcome Summary": "In favor of Defendant with reference to Article 300A, Transfer of Property Act 1882."
+            },
+            {
+                "Case ID": 1729,
+                "Case Type": "Criminal Case",
+                "Court": "District Court",
+                "Judge Name": "Justice Reddy",
+                "Date": "2024-05-21",
+                "Plaintiff": "Party_238",
+                "Defendant": "Party_774",
+                "Case Summary": "Legal dispute over criminal case issue.",
+                "Key Arguments": "Arguments presented based on IPC Section 378, 323.",
+                "Verdict": "In favor of Defendant",
+                "Appeal Status": "Appeal Dismissed",
+                "Legal References": "Article 300A, Transfer of Property Act 1882",
+                "Outcome Summary": "In favor of Defendant with reference to Article 300A, Transfer of Property Act 1882."
+            },
+            {
+                "Case ID": 942,
+                "Case Type": "Civil Dispute",
+                "Court": "Supreme Court",
+                "Judge Name": "Justice Reddy",
+                "Date": "2022-04-17",
+                "Plaintiff": "Party_106",
+                "Defendant": "Party_578",
+                "Case Summary": "Legal dispute over civil dispute issue.",
+                "Key Arguments": "Arguments presented based on Hindu Marriage Act 1955.",
+                "Verdict": "Joint Custody",
+                "Appeal Status": "No Appeal",
+                "Legal References": "Constitution of India, Article 21",
+                "Outcome Summary": "Joint Custody with reference to Constitution of India, Article 21."
+            },
+            {
+                "Case ID": 177,
+                "Case Type": "Constitutional",
+                "Court": "District Court",
+                "Judge Name": "Justice Reddy",
+                "Date": "2023-10-05",
+                "Plaintiff": "Party_440",
+                "Defendant": "Party_635",
+                "Case Summary": "Legal dispute over constitutional issue.",
+                "Key Arguments": "Arguments presented based on Hindu Marriage Act 1955.",
+                "Verdict": "In favor of Plaintiff",
+                "Appeal Status": "Appeal Pending",
+                "Legal References": "Hindu Marriage Act 1955",
+                "Outcome Summary": "In favor of Plaintiff with reference to Hindu Marriage Act 1955."
+            },
+            {
+                "Case ID": 3624,
+                "Case Type": "Family Law",
+                "Court": "District Court",
+                "Judge Name": "Justice Reddy",
+                "Date": "2019-07-12",
+                "Plaintiff": "Party_312",
+                "Defendant": "Party_727",
+                "Case Summary": "Legal dispute over family law issue.",
+                "Key Arguments": "Arguments presented based on Article 300A, Transfer of Property Act 1882.",
+                "Verdict": "In favor of Plaintiff",
+                "Appeal Status": "Appeal Pending",
+                "Legal References": "Hindu Marriage Act 1955",
+                "Outcome Summary": "In favor of Plaintiff with reference to Hindu Marriage Act 1955."
+            }
+        ]
+    },
+    "Justice Mehta": {
+        "description": "Cases presided by Justice Mehta",
+        "common_case_types": {
+            "Constitutional": 201,
+            "Corporate Law": 200,
+            "Family Law": 189,
+            "Civil Dispute": 185,
+            "Criminal Case": 163
+        },
+        "common_verdicts": {
+            "In favor of Plaintiff": 207,
+            "Guilty": 192,
+            "In favor of Defendant": 188,
+            "Joint Custody": 178,
+            "Not Guilty": 173
+        },
+        "common_courts": {
+            "Supreme Court": 209,
+            "NCLT": 190,
+            "District Court": 187,
+            "High Court": 177,
+            "Family Court": 175
+        },
+        "sample_cases": [
+            {
+                "Case ID": 968,
+                "Case Type": "Civil Dispute",
+                "Court": "Family Court",
+                "Judge Name": "Justice Mehta",
+                "Date": "2016-04-30",
+                "Plaintiff": "Party_442",
+                "Defendant": "Party_779",
+                "Case Summary": "Legal dispute over civil dispute issue.",
+                "Key Arguments": "Arguments presented based on Constitution of India, Article 21.",
+                "Verdict": "In favor of Defendant",
+                "Appeal Status": "Appeal Pending",
+                "Legal References": "Constitution of India, Article 21",
+                "Outcome Summary": "In favor of Defendant with reference to Constitution of India, Article 21."
+            },
+            {
+                "Case ID": 1201,
+                "Case Type": "Civil Dispute",
+                "Court": "NCLT",
+                "Judge Name": "Justice Mehta",
+                "Date": "2019-09-18",
+                "Plaintiff": "Party_137",
+                "Defendant": "Party_727",
+                "Case Summary": "Legal dispute over civil dispute issue.",
+                "Key Arguments": "Arguments presented based on Constitution of India, Article 21.",
+                "Verdict": "Not Guilty",
+                "Appeal Status": "Appeal Dismissed",
+                "Legal References": "Constitution of India, Article 21",
+                "Outcome Summary": "Not Guilty with reference to Constitution of India, Article 21."
+            },
+            {
+                "Case ID": 3988,
+                "Case Type": "Criminal Case",
+                "Court": "District Court",
+                "Judge Name": "Justice Mehta",
+                "Date": "2024-04-05",
+                "Plaintiff": "Party_287",
+                "Defendant": "Party_676",
+                "Case Summary": "Legal dispute over criminal case issue.",
+                "Key Arguments": "Arguments presented based on Hindu Marriage Act 1955.",
+                "Verdict": "Joint Custody",
+                "Appeal Status": "Appeal Dismissed",
+                "Legal References": "IPC Section 378, 323",
+                "Outcome Summary": "Joint Custody with reference to IPC Section 378, 323."
+            },
+            {
+                "Case ID": 2561,
+                "Case Type": "Civil Dispute",
+                "Court": "NCLT",
+                "Judge Name": "Justice Mehta",
+                "Date": "2024-08-17",
+                "Plaintiff": "Party_20",
+                "Defendant": "Party_916",
+                "Case Summary": "Legal dispute over civil dispute issue.",
+                "Key Arguments": "Arguments presented based on IPC Section 378, 323.",
+                "Verdict": "In favor of Defendant",
+                "Appeal Status": "No Appeal",
+                "Legal References": "Article 300A, Transfer of Property Act 1882",
+                "Outcome Summary": "In favor of Defendant with reference to Article 300A, Transfer of Property Act 1882."
+            },
+            {
+                "Case ID": 2055,
+                "Case Type": "Family Law",
+                "Court": "High Court",
+                "Judge Name": "Justice Mehta",
+                "Date": "2020-03-05",
+                "Plaintiff": "Party_285",
+                "Defendant": "Party_701",
+                "Case Summary": "Legal dispute over family law issue.",
+                "Key Arguments": "Arguments presented based on IPC Section 378, 323.",
+                "Verdict": "Not Guilty",
+                "Appeal Status": "No Appeal",
+                "Legal References": "Constitution of India, Article 21",
+                "Outcome Summary": "Not Guilty with reference to Constitution of India, Article 21."
+            }
+        ]
+    },
+    "Justice Nair": {
+        "description": "Cases presided by Justice Nair",
+        "common_case_types": {
+            "Criminal Case": 206,
+            "Family Law": 203,
+            "Civil Dispute": 202,
+            "Corporate Law": 196,
+            "Constitutional": 195
+        },
+        "common_verdicts": {
+            "In favor of Defendant": 222,
+            "Guilty": 211,
+            "Not Guilty": 195,
+            "In favor of Plaintiff": 190,
+            "Joint Custody": 184
+        },
+        "common_courts": {
+            "NCLT": 215,
+            "District Court": 207,
+            "High Court": 202,
+            "Supreme Court": 192,
+            "Family Court": 186
+        },
+        "sample_cases": [
+            {
+                "Case ID": 1518,
+                "Case Type": "Corporate Law",
+                "Court": "District Court",
+                "Judge Name": "Justice Nair",
+                "Date": "2015-06-08",
+                "Plaintiff": "Party_242",
+                "Defendant": "Party_628",
+                "Case Summary": "Legal dispute over corporate law issue.",
+                "Key Arguments": "Arguments presented based on Hindu Marriage Act 1955.",
+                "Verdict": "In favor of Plaintiff",
+                "Appeal Status": "Appeal Dismissed",
+                "Legal References": "Companies Act 2013",
+                "Outcome Summary": "In favor of Plaintiff with reference to Companies Act 2013."
+            },
+            {
+                "Case ID": 4824,
+                "Case Type": "Corporate Law",
+                "Court": "High Court",
+                "Judge Name": "Justice Nair",
+                "Date": "2019-12-22",
+                "Plaintiff": "Party_338",
+                "Defendant": "Party_840",
+                "Case Summary": "Legal dispute over corporate law issue.",
+                "Key Arguments": "Arguments presented based on Hindu Marriage Act 1955.",
+                "Verdict": "In favor of Plaintiff",
+                "Appeal Status": "Appeal Dismissed",
+                "Legal References": "Hindu Marriage Act 1955",
+                "Outcome Summary": "In favor of Plaintiff with reference to Hindu Marriage Act 1955."
+            },
+            {
+                "Case ID": 4776,
+                "Case Type": "Civil Dispute",
+                "Court": "Supreme Court",
+                "Judge Name": "Justice Nair",
+                "Date": "2023-10-28",
+                "Plaintiff": "Party_367",
+                "Defendant": "Party_652",
+                "Case Summary": "Legal dispute over civil dispute issue.",
+                "Key Arguments": "Arguments presented based on Constitution of India, Article 21.",
+                "Verdict": "Joint Custody",
+                "Appeal Status": "No Appeal",
+                "Legal References": "Constitution of India, Article 21",
+                "Outcome Summary": "Joint Custody with reference to Constitution of India, Article 21."
+            },
+            {
+                "Case ID": 1698,
+                "Case Type": "Corporate Law",
+                "Court": "Supreme Court",
+                "Judge Name": "Justice Nair",
+                "Date": "2017-12-27",
+                "Plaintiff": "Party_340",
+                "Defendant": "Party_700",
+                "Case Summary": "Legal dispute over corporate law issue.",
+                "Key Arguments": "Arguments presented based on Hindu Marriage Act 1955.",
+                "Verdict": "Guilty",
+                "Appeal Status": "Appeal Pending",
+                "Legal References": "Companies Act 2013",
+                "Outcome Summary": "Guilty with reference to Companies Act 2013."
+            },
+            {
+                "Case ID": 3918,
+                "Case Type": "Corporate Law",
+                "Court": "Family Court",
+                "Judge Name": "Justice Nair",
+                "Date": "2022-04-13",
+                "Plaintiff": "Party_182",
+                "Defendant": "Party_612",
+                "Case Summary": "Legal dispute over corporate law issue.",
+                "Key Arguments": "Arguments presented based on Article 300A, Transfer of Property Act 1882.",
+                "Verdict": "In favor of Defendant",
+                "Appeal Status": "Appeal Pending",
+                "Legal References": "IPC Section 378, 323",
+                "Outcome Summary": "In favor of Defendant with reference to IPC Section 378, 323."
+            }
+        ]
+    },
+    "Justice Kumar": {
+        "description": "Cases presided by Justice Kumar",
+        "common_case_types": {
+            "Civil Dispute": 203,
+            "Corporate Law": 200,
+            "Constitutional": 198,
+            "Family Law": 198,
+            "Criminal Case": 182
+        },
+        "common_verdicts": {
+            "Not Guilty": 208,
+            "In favor of Plaintiff": 200,
+            "In favor of Defendant": 195,
+            "Guilty": 194,
+            "Joint Custody": 184
+        },
+        "common_courts": {
+            "NCLT": 241,
+            "Supreme Court": 201,
+            "District Court": 183,
+            "High Court": 182,
+            "Family Court": 174
+        },
+        "sample_cases": [
+            {
+                "Case ID": 2162,
+                "Case Type": "Corporate Law",
+                "Court": "Family Court",
+                "Judge Name": "Justice Kumar",
+                "Date": "2016-06-29",
+                "Plaintiff": "Party_302",
+                "Defendant": "Party_743",
+                "Case Summary": "Legal dispute over corporate law issue.",
+                "Key Arguments": "Arguments presented based on Companies Act 2013.",
+                "Verdict": "Joint Custody",
+                "Appeal Status": "Appeal Pending",
+                "Legal References": "Hindu Marriage Act 1955",
+                "Outcome Summary": "Joint Custody with reference to Hindu Marriage Act 1955."
+            },
+            {
+                "Case ID": 4122,
+                "Case Type": "Civil Dispute",
+                "Court": "NCLT",
+                "Judge Name": "Justice Kumar",
+                "Date": "2024-08-16",
+                "Plaintiff": "Party_213",
+                "Defendant": "Party_657",
+                "Case Summary": "Legal dispute over civil dispute issue.",
+                "Key Arguments": "Arguments presented based on Article 300A, Transfer of Property Act 1882.",
+                "Verdict": "In favor of Defendant",
+                "Appeal Status": "No Appeal",
+                "Legal References": "Companies Act 2013",
+                "Outcome Summary": "In favor of Defendant with reference to Companies Act 2013."
+            },
+            {
+                "Case ID": 1777,
+                "Case Type": "Civil Dispute",
+                "Court": "High Court",
+                "Judge Name": "Justice Kumar",
+                "Date": "2015-04-03",
+                "Plaintiff": "Party_208",
+                "Defendant": "Party_658",
+                "Case Summary": "Legal dispute over civil dispute issue.",
+                "Key Arguments": "Arguments presented based on IPC Section 378, 323.",
+                "Verdict": "In favor of Plaintiff",
+                "Appeal Status": "No Appeal",
+                "Legal References": "Hindu Marriage Act 1955",
+                "Outcome Summary": "In favor of Plaintiff with reference to Hindu Marriage Act 1955."
+            },
+            {
+                "Case ID": 2118,
+                "Case Type": "Corporate Law",
+                "Court": "NCLT",
+                "Judge Name": "Justice Kumar",
+                "Date": "2019-03-25",
+                "Plaintiff": "Party_462",
+                "Defendant": "Party_858",
+                "Case Summary": "Legal dispute over corporate law issue.",
+                "Key Arguments": "Arguments presented based on Article 300A, Transfer of Property Act 1882.",
+                "Verdict": "In favor of Plaintiff",
+                "Appeal Status": "Appeal Dismissed",
+                "Legal References": "IPC Section 378, 323",
+                "Outcome Summary": "In favor of Plaintiff with reference to IPC Section 378, 323."
+            },
+            {
+                "Case ID": 1157,
+                "Case Type": "Criminal Case",
+                "Court": "NCLT",
+                "Judge Name": "Justice Kumar",
+                "Date": "2022-11-18",
+                "Plaintiff": "Party_147",
+                "Defendant": "Party_941",
+                "Case Summary": "Legal dispute over criminal case issue.",
+                "Key Arguments": "Arguments presented based on Article 300A, Transfer of Property Act 1882.",
+                "Verdict": "In favor of Plaintiff",
+                "Appeal Status": "Appeal Pending",
+                "Legal References": "Companies Act 2013",
+                "Outcome Summary": "In favor of Plaintiff with reference to Companies Act 2013."
+            }
+        ]
+    }
+}

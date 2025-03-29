@@ -1,0 +1,82 @@
+.analytics-dashboard {
+    padding: 30px;
+}
+
+.dashboard-header {
+    margin-bottom: 30px;
+}
+
+.dashboard-header h1 {
+    color: var(--primary-color);
+    margin-bottom: 5px;
+}
+
+.dashboard-header p {
+    color: #777;
+    font-size: 1.1rem;
+}
+
+.stats-row {
+    margin-bottom: 30px;
+}
+
+.stat-card {
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+.stat-icon {
+    font-size: 2.5rem;
+    color: var(--secondary-color);
+    margin-right: 15px;
+}
+
+.stat-content h3 {
+    font-size: 1.8rem;
+    margin: 0;
+    color: var(--primary-color);
+}
+
+.stat-content p {
+    margin: 0;
+    color: #777;
+}
+
+.insights-container {
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.insights-container h4 {
+    color: var(--primary-color);
+    margin-bottom: 15px;
+}
+
+.insight-item {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.insight-item:last-child {
+    margin-bottom: 0;
+    padding-bottom: 0;
+    border-bottom: none;
+}
+
+.insight-item h5 {
+    color: var(--dark-color);
+    margin-bottom: 5px;
+}
+
+.insight-item p {
+    margin: 0;
+    color: #555;
+} 
